@@ -146,10 +146,6 @@ MENU---------------------------
     flex-flow: row wrap;
 }
 
-.menu nav ul li {
-    
-}
-
 
 .menu nav  a{
     -webkit-box-flex: 1;
@@ -263,7 +259,8 @@ a.btn:hover {
 
 .vkladka {
     width: 800px;
-    margin: 50px auto;
+    margin: 0 auto 50px;
+    padding-top: 50px;
     height: auto;
 }
 
